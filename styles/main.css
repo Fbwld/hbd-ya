@@ -379,3 +379,54 @@ body {
     font-weight: lighter;
   }
 }
+
+@media screen and (max-width: 574px) {
+  .greetings {
+    font-size: 3rem;
+    font-weight: 500;
+    text-align: center;
+  }
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+  .one {
+    font-size: 3rem;
+  }
+  .two {
+    font-size: 1rem;
+  }
+  .three {
+    font-size: 2rem;
+  }
+  .five p {
+    font-size: 1.5rem;
+  }
+  .four .text-box {
+    width: 90%;
+    font-size: 0.8rem;
+  }
+  .text-box .fake-btn {
+    bottom: -28px;
+    padding: 0.3rem 0.8rem;
+    font-size: 0.8rem;
+  }
+  .six img {
+    height: 250px;
+  }
+  .wish-hbd {
+    font-size: 2rem;
+  }
+  .wish h5 {
+    font-size: 1.2rem;
+  }
+  .idea-5 {
+    font-size: 3rem;
+  }
+  .idea-6 span {
+    font-size: 7rem;
+  }
+  .nine p {
+    font-size: 1.2rem;
+  }
+}
